@@ -8,6 +8,8 @@ Zhiyuan Wang, Zeliang Zhang, Siyuan Liang, Xiaosen Wang
 
 ![abstract](./figs/abstract.png)
 
+> We also include the torch version code in the framework [TransferAttack](https://github.com/Trustworthy-AI-Group/TransferAttack).
+
 ## Requirements
 
 + Python >= 3.7
